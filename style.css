@@ -1,0 +1,29 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.border {
+   border: 2px solid red; 
+}
+
+.border-blue {
+    border: 2px solid blue; 
+}
+
+.main-container {
+    height: 100vh;
+}
+
+nav {
+    height: 80px;
+}
+
+.logo {
+    height: 60px;
+    width: ;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
